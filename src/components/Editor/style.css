@@ -1,0 +1,9 @@
+.editor{
+   
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 3rem;
+    background-color: white;
+    height: 100vh;
+    border: 1px solid #ccc;
+}
